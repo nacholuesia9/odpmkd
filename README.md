@@ -2,6 +2,8 @@
 A small set of tools to process OpenDocument Presentation files (ODP), and to transform them to markdown.
 It will work acceptably for the "lecture notes style" slides, AKA "presentation-as-a-document" style: mostly text structured in bullet points. It will not work well at all for more "presentation style" slides, where the visual aspect and the arrangement of elements in the slides is important.
 
+# HE AÑADIDO ESTA LÍNEA PARA INTRODUCIR CAMBIOS ANTES DE REALIZAR EL DESPLIEGUE
+
 - `odptools` takes an odp file, and produces a cleaner version of that file.
 - `odpmkd` takes an odp file and produces a markdown file trying to preserve its contents.
 
